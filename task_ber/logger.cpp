@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "stdint.h"
 
-using namespace std;
+using namespace std; //uses namespaces related to std
 
 fstream logFile; 
 
